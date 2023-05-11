@@ -59,3 +59,13 @@ https://github.com/Fudeo-it/hackaton-1st-edition/tree/main/SimoneParodi
 Ci è piaciuta molto la struttura del progetto: mix ideale tra semplicità e pulizia del codice. Progetto più consigliato per vedere come strutturare bene un progetto Flutter. La UI e UX sono molto semplici ed efficaci, ma mancano alcune funzionalità che altri invece hanno implementato o più cura in generale nell'aspetto grafico.
 
 ![Screenshots](./SimoneParodi/screenshot.jpg)
+
+# Menzioni speciali
+
+**Team Blocbusters**
+
+https://github.com/Fudeo-it/hackaton-1st-edition/tree/main/TeamBlocbusters
+
+UI migliore dell'Hackaton, illustrazioni, colori, accessibilità e branding app veramente ben fatte. UX andrebbe migliorata in diversi suoi punti ed inoltre il codice è stato molto modularizzato, forse fin troppo.
+
+![Screenshots](./TeamBlocbusters/screenshot.jpg)
