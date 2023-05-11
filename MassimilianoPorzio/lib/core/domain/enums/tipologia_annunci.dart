@@ -1,0 +1,4 @@
+enum TipoAnnuncio {
+  aziende,
+  freelancers;
+}

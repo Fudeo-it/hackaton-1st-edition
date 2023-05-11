@@ -1,0 +1,17 @@
+name: job_offer_repository
+description: Package which manages the job domain
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  equatable: ^2.0.3
+  favourites_repository:
+    path: ../favourites_repository
+  fudeo_api:
+    path: ../fudeo_api
+  rxdart: ^0.27.4
+
+dev_dependencies:
+  very_good_analysis: ^3.1.0

@@ -1,0 +1,8 @@
+targets:
+  $default:
+    builders:
+      freezed:
+        options:
+          # We must disable the generation of the "equal" method because otherwise we won't receive the states update that are equals to the previous ones (but we actually need them)
+          copy_with: true
+          equal: false

@@ -1,0 +1,89 @@
+{
+  "appName": "Offertelavoroflutter.it",
+  "genericErrorMessage" : "Sì è verificato un errore",
+  "notItemsFoundMessage" : "Nessun elemento",
+  "retry" : "Riprova",
+  "advancedSearch" : "Ricerca avanzata",
+  "applyFilters" : "Applica",
+  "removeFilters" : "Rimuovi filtri",
+  "subscribe": "Iscriviti",
+  "or": "oppure",
+
+  "contrattoAttribute" : "Contratto",
+  "seniorityAttribute" : "Seniority",
+  "teamAttribute" : "Team",
+  "qualificaAttribute" : "Qualifica",
+  "retribuzioneAttribute" : "Retribuzione",
+  "descrizioneOffertaAttribute" : "Descrizione offerta",
+  "comeCandidarsiAttribute" : "Come candidarsi",
+  "statoDiPubblicazioneAttribute" : "Stato di pubblicazione",
+  "urlSitoWebAttribute" : "Sito web",
+
+  "jobOfferShareText": "Guarda questa offerta di lavoro: {url}",
+  "@jobOfferShareText" : {
+    "placeholders": {
+      "url": {
+        "type": "String"
+      }
+    }
+  },
+
+  "jobOfferSearchPlaceholder": "Cerca annunci per nome...",
+
+  "hiringJobOfferScreenTitle": "Offerte di lavoro per\nassunzione",
+  "hiringJobOfferScreenSwitch": "Passa alle offerte per freelance",
+
+  "jobOfferAddedToFavorites": "Offerta aggiunta ai preferiti",
+  "jobOfferRemovedFromFavorites": "Offerta rimossa dai preferiti",
+
+  "bottomNavItemJobOffers": "Annunci",
+  "bottomNavItemFavorites": "Preferiti",
+  "bottomNavItemPublishJobOffer": "Pubblica",
+  "bottomNavItemResources": "Risorse",
+
+  "subscribeToJobOfferNewsletter": "Resta aggiornato sugli ultimi annunci pubblicati",
+
+  "hiringJobOfferSubscribeNewsletterTitle": "Ti aiutiamo a trovare lavoro",
+  "hiringJobOfferSubscribeNewsletterText": "Ricevi gratuitamente le offerte di lavoro via email, filtrate in base alle tue preferenze e solo quando ci sono novità interessanti per te. Non cederemo a nessun terzo i dati raccolti dell'iscrizione senza il tuo esplicito consenso.",
+
+  "freelanceJobOfferScreenTitle": "Offerte di lavoro per\nfreelance",
+  "freelanceJobOfferScreenSwitch": "Passa alle offerte per assunzione",
+
+  "ndaAttribute" : "NDA",
+  "tipoDiRelazioneAttribute" : "Tipo di relazione",
+  "tempisticheAttribute" : "Tempistiche",
+  "richiestaDiLavoroAttribute" : "Richiesta di lavoro",
+  "budgetAttribute" : "Budget",
+  "tempisticheDiPagamentoAttribute" : "Tempistiche di pagamento",
+  "descrizioneDelProgettoAttribute" : "Descrizione del progetto",
+
+  "freelanceJobOfferSubscribeNewsletterTitle": "Ti aiutiamo a trovare nuovi clienti",
+  "freelanceJobOfferSubscribeNewsletterText": "Per te che sei uno sviluppatore Flutter in cerca di nuovi clienti per progetti freelance, iscriviti alla nostra newsletter per ricevere aggiornamenti quando un'azienda pubblica una nuova commessa. Non ti invieremo più di 4 email al mese e ti scriveremo solo se ci saranno proposte interessanti per te (in base ai filtri che selezionerai in fase di iscrizione). Non cederemo a nessun terzo i dati raccolti dell’iscrizione senza il tuo esplicito consenso.",
+
+  "favoritesScreenTitle": "Preferiti",
+  "jobOfferTypeHiring": "Assunzione",
+  "jobOfferTypeFreelance": "Freelance",
+
+  "resourcesScreenTitle": "Risorse",
+
+  "publishJobOfferScreenTitle": "Pubblica offerta di lavoro",
+  "publishJobOfferScreenSubTitle": "Ti aiutiamo a trovare sviluppatori Flutter",
+  "publishJobOfferScreenText": "Pubblica gratuitamente le offerte di lavoro sulla nostra app. Se la proposta è affine ad uno o più sviluppatori registrati al nostro database, la notificheremo ai possibili interessati. La pubblicazione avviene in ordine cronologico.",
+  "publishHiringJobOfferButton": "Pubblica proposta di lavoro per assunzione",
+  "publishFreelanceJobOfferButton": "Pubblica proposta di lavoro per freelance",
+
+  "onboardingButtonNext": "Avanti",
+  "onboardingButtonEnd": "Fine",
+
+  "onboardingStep1Title": "Ciao!",
+  "onboardingStep1Text": "Benvenuto nell'app di Offertelavoroflutter.it, una bacheca di annunci di lavoro per assunzioni e progetti freelance dedicata agli sviluppatori Flutter.",
+
+  "onboardingStep2Title": "Cerca fra gli annunci",
+  "onboardingStep2Text": "Scopri tutti gli annunci pubblicati, trova quelli più adatti a te grazie ai filtri avanzati e aggiungi gli annunci di maggior interesse ai tuoi preferiti, così da averli sempre sott'occhio.",
+
+  "onboardingStep3Title": "Resta sempre aggiornato",
+  "onboardingStep3Text": "Iscriviti alla nostra newsletter per ricevere gratuitamente le offerte di lavoro via email, filtrate in base alle tue preferenze.",
+
+  "onboardingStep4Title": "Diventa sviluppatore Flutter",
+  "onboardingStep4Text": "Scopri tutte le risorse gratuite e a pagamento che offre l'ecosistema Flutter italiano."
+}

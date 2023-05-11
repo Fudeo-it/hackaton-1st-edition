@@ -1,0 +1,3 @@
+enum JobOfferType {
+  hiring, freelance
+}

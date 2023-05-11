@@ -1,0 +1,56 @@
+{
+  "errorMessage": "Si è verificato un errore: {errorMessage}",
+  "@errorMessage": {
+    "description": "Message stating that an error has occurred",
+    "placeholders": {
+      "errorMessage": {
+        "type": "String",
+        "example": "Generic Error"
+      }
+    }
+  },
+  "jobOffersNotAvailable": "Uffa... non ci sono offerte di lavoro disponibili in questo momento. Riprova dopo!",
+  "@jobOffersNotAvailable": {
+    "description": "Message stating that no job offers are available"
+  },
+  "recruitmentTitle": "Offerte di lavoro per assunzioni",
+  "@recruitmentTitle": {
+    "description": "Page title"
+  },
+  "website": "offertelavoroflutter.it",
+  "recruitments": "Assunzioni",
+  "freelance": "Freelance",
+  "ads": "Annunci",
+  "favorites": "Preferiti",
+  "publish": "Pubblica",
+  "sortBy": "Ordina per",
+  "sort": "Sort",
+  "removeFilters": "Elimina i filtri",
+  "done": "Fatto",
+  "titleOffersSaved": "Offerte da te salvate ({qty})",
+  "messageListEmptied": "Lista svuotata",
+  "emptyFavoritesList": "Non ci sono offerte di lavoro nella tua lista dei preferiti al momento. Torna a cercare nuove opportunità di lavoro!",
+  "addedToFavorites": "Aggiunto ai preferiti",
+  "removedFromFavorites": "Rimosso dai preferiti",
+  "team": "Team",
+  "contract": "Contratto",
+  "seniority": "Seniority",
+  "pay": "Retribuzione",
+  "description": "Descrizione",
+  "candidates": "Candidati",
+  "howToApply": "Come candidarsi",
+  "notSpecified": "Non specificato",
+  "descriptionProject": "Descrizione del progetto",
+  "jobRequest": "Richiesta di lavoro",
+  "relationshipType": "Tipo di relazione",
+  "timing": "Tempistiche",
+  "budget": "Budget",
+  "paymentTimes": "Tempistiche di pagamento",
+  "nda": "NDA",
+  "offerTextPublish": "Mettiamo in contatto le aziende italiane con gli sviluppatori Flutter",
+  "messagePublishOffer": "È possibile pubblicare gratuitamente le offerte di lavoro per progetti freelance o per assunzione, se la proposta è affine ad uno o più sviluppatori registrati al nostro database, la notificheremo ai possibili interessati.",
+  "hireHimInTheCompany": "Per assumerlo in azienda",
+  "freelanceProject": "Per un progetto freelance",
+  "or": "Oppure",
+  "shareJobOffer": "Guarda questo annuncio di lavoro"
+}

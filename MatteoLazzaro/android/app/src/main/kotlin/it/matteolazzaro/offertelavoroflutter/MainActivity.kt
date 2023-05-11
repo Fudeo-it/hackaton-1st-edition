@@ -1,0 +1,6 @@
+package it.matteolazzaro.offertelavoroflutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

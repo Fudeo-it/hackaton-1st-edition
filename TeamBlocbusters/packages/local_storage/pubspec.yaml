@@ -1,0 +1,11 @@
+name: local_storage
+description: Package to manage offline data
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dev_dependencies:
+  very_good_analysis: ^3.1.0
+dependencies:
+  shared_preferences: ^2.1.0

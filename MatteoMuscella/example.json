@@ -1,0 +1,397 @@
+{
+  "results": [
+    {
+      "object": "page",
+      "id": "f7c1e8ec-be69-4b40-96f0-bad87b44a1fc",
+      "created_time": "2023-03-18T14:56:00.000Z",
+      "last_edited_time": "2023-03-18T14:59:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "85f226e6-6ed6-4131-bd7d-0c16e3ddabbd"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "85f226e6-6ed6-4131-bd7d-0c16e3ddabbd"
+      },
+      "cover": null,
+      "icon": {
+        "type": "emoji",
+        "emoji": "📍"
+      },
+      "parent": {
+        "type": "database_id",
+        "database_id": "283d2760-f815-48f0-a7ba-ca4b3e58d7d8"
+      },
+      "archived": false,
+      "properties": {
+        "Job Posted": {
+          "id": "*.%3D%26",
+          "type": "created_time",
+          "created_time": "2023-03-18T14:56:00.000Z"
+        },
+        "Team": {
+          "id": "SO%3FZ",
+          "type": "select",
+          "select": {
+            "id": "492bc0b5-4619-4748-b6be-8f5e0052b8cd",
+            "name": "In sede",
+            "color": "red"
+          }
+        },
+        "Contratto": {
+          "id": "YAIR",
+          "type": "select",
+          "select": {
+            "id": "HwV|",
+            "name": "Full time",
+            "color": "blue"
+          }
+        },
+        "Seniority": {
+          "id": "aMN%60",
+          "type": "select",
+          "select": {
+            "id": "aca8eba2-e887-4aa5-a16a-9d40c4b414b0",
+            "name": "Junior",
+            "color": "green"
+          }
+        },
+        "RAL": {
+          "id": "xjYe",
+          "type": "select",
+          "select": null
+        },
+        "Name": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mobile developer Flutter | Gruppo Maggioli",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mobile developer Flutter | Gruppo Maggioli",
+              "href": null
+            }
+          ]
+        },
+        "Qualifica": {
+          "id": "046fcebc-485f-4af8-931b-38b03c545ea8",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mobile developer Flutter",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mobile developer Flutter",
+              "href": null
+            }
+          ]
+        },
+        "Retribuzione": {
+          "id": "0af6ac44-7c49-4e1b-b88d-9e6df8fc0251",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Descrizione offerta": {
+          "id": "4d1c3f3d-3bcd-4cac-b32d-c6892aa3ef29",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Per Injenia - società parte del Gruppo con sede a Bologna - siamo alla ricerca di programmatori software in ambito mobile per lo sviluppo e l'evoluzione di applicazioni mobile a livello di prodotti e progetti software basati principalmente su tecnologia Flutter.\nCerchiamo persone motivate, con la passione per le tecnologie e con la voglia di mettere un pizzico di valore aggiunto in quello che fanno.\nSeguirai le fasi di sviluppo software, stesura del codice e documentazione del codice di progetto, sulla base delle direttive del responsabile di team e di progetto. Potrai partecipare alle fasi di analisi dei requisiti tecnici e di design delle soluzioni.\n\n",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Per Injenia - società parte del Gruppo con sede a Bologna - siamo alla ricerca di programmatori software in ambito mobile per lo sviluppo e l'evoluzione di applicazioni mobile a livello di prodotti e progetti software basati principalmente su tecnologia Flutter.\nCerchiamo persone motivate, con la passione per le tecnologie e con la voglia di mettere un pizzico di valore aggiunto in quello che fanno.\nSeguirai le fasi di sviluppo software, stesura del codice e documentazione del codice di progetto, sulla base delle direttive del responsabile di team e di progetto. Potrai partecipare alle fasi di analisi dei requisiti tecnici e di design delle soluzioni.\n\n",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Cosa Cerchiamo",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Cosa Cerchiamo",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "\n• Diploma e/o l aurea in Ingegneria informatica/informatica\n• Esperienza di sviluppo in ambito mobile, nativo e/o multi piattaforma\n• Conoscenza di Flutter/Dart\n• Conoscenza nella realizzazione di servizi REST\n• Buona conoscenza dello standard JSON e manipolazione dello stesso\n• Conoscenza di GIT",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "\n• Diploma e/o l aurea in Ingegneria informatica/informatica\n• Esperienza di sviluppo in ambito mobile, nativo e/o multi piattaforma\n• Conoscenza di Flutter/Dart\n• Conoscenza nella realizzazione di servizi REST\n• Buona conoscenza dello standard JSON e manipolazione dello stesso\n• Conoscenza di GIT",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Plus \n\nGraditi",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Plus \n\nGraditi",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "\n• Buona conoscenza della lingua inglese\n• Competenze in ambito sviluppo web frontend con framework typescript (Angular; React)",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "\n• Buona conoscenza della lingua inglese\n• Competenze in ambito sviluppo web frontend con framework typescript (Angular; React)",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Completano Il Profilo",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Completano Il Profilo",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "\n• Ottimo Problem Solving\n• Orientamento al risultato\n• Teamwork\n\nCosa ti possiamo offrire?\n• Opportunità di sviluppare nuove competenze;\n• Un ambiente di lavoro dinamico, inclusivo e coinvolgente;\n• Strumenti di lavoro all’avanguardia\n• Modalità di lavoro ibrido\n\nIl Gruppo Maggioli ha conseguito il Certificato d'Eccellenza Etica del Lavoro rilasciato da EthicJobs, società che valuta e certifica la qualità del lavoro percepita dai dipendenti all'interno delle aziende che offrono i migliori standard lavorativi in ambienti congeniali e nel rispetto del 'work-life balance', proattivo e protettivo.\n\n",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "\n• Ottimo Problem Solving\n• Orientamento al risultato\n• Teamwork\n\nCosa ti possiamo offrire?\n• Opportunità di sviluppare nuove competenze;\n• Un ambiente di lavoro dinamico, inclusivo e coinvolgente;\n• Strumenti di lavoro all’avanguardia\n• Modalità di lavoro ibrido\n\nIl Gruppo Maggioli ha conseguito il Certificato d'Eccellenza Etica del Lavoro rilasciato da EthicJobs, società che valuta e certifica la qualità del lavoro percepita dai dipendenti all'interno delle aziende che offrono i migliori standard lavorativi in ambienti congeniali e nel rispetto del 'work-life balance', proattivo e protettivo.\n\n",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Chi siamo/cosa facciamo",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Chi siamo/cosa facciamo",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "\nSiamo una Family Company da oltre cento anni. Conoscenza e tecnologia sono le nostre passioni, e il nostro business. Noi le trasformiamo in prodotti, servizi e soluzioni integrate per promuovere e sostenere la trasformazione digitale, l’innovazione di processo e la semplificazione della Pubblica Amministrazione, delle Imprese e del mondo delle Libere Professioni. Grazie alla passione e alla competenza di oltre 2000 collaboratori abbiamo conquistato la leadership di mercato in Italia e siamo in forte crescita nel mercato internazionale.\n\n",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "\nSiamo una Family Company da oltre cento anni. Conoscenza e tecnologia sono le nostre passioni, e il nostro business. Noi le trasformiamo in prodotti, servizi e soluzioni integrate per promuovere e sostenere la trasformazione digitale, l’innovazione di processo e la semplificazione della Pubblica Amministrazione, delle Imprese e del mondo delle Libere Professioni. Grazie alla passione e alla competenza di oltre 2000 collaboratori abbiamo conquistato la leadership di mercato in Italia e siamo in forte crescita nel mercato internazionale.\n\n",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "Crescere con noi/crescere con te",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Crescere con noi/crescere con te",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": "\nSe \"innovatori per tradizione\" è il nostro motto, è perché da noi non si sta fermi un momento e non si smette mai di imparare. Se sei all’inizio del tuo percorso lavorativo ti aiutiamo a trasformare il tuo talento in professionalità e le tue conoscenze in competenze; se invece hai già una carriera alle spalle definiamo con te come valorizzare al meglio la tua esperienza e offrirti le giuste sfide per continuare a crescere. In ogni caso il nostro obiettivo è farti sempre sentire la persona giusta, nel posto giusto, al momento giusto.",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "\nSe \"innovatori per tradizione\" è il nostro motto, è perché da noi non si sta fermi un momento e non si smette mai di imparare. Se sei all’inizio del tuo percorso lavorativo ti aiutiamo a trasformare il tuo talento in professionalità e le tue conoscenze in competenze; se invece hai già una carriera alle spalle definiamo con te come valorizzare al meglio la tua esperienza e offrirti le giuste sfide per continuare a crescere. In ogni caso il nostro obiettivo è farti sempre sentire la persona giusta, nel posto giusto, al momento giusto.",
+              "href": null
+            }
+          ]
+        },
+        "Come candidarsi": {
+          "id": "7871af61-b980-493a-988b-b46a307b19ba",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "https://www.linkedin.com/jobs/view/3453626860",
+                "link": {
+                  "url": "https://www.linkedin.com/jobs/view/3453626860"
+                }
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "https://www.linkedin.com/jobs/view/3453626860",
+              "href": "https://www.linkedin.com/jobs/view/3453626860"
+            }
+          ]
+        },
+        "Località": {
+          "id": "7d962ec8-d261-415c-8aac-c137da8a930e",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Bologna",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Bologna",
+              "href": null
+            }
+          ]
+        },
+        "Nome azienda": {
+          "id": "a85ea1da-4808-4bd2-b9e4-adec6cae2ea2",
+          "type": "rich_text",
+          "rich_text": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Gruppo Maggioli",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Gruppo Maggioli",
+              "href": null
+            }
+          ]
+        },
+        "Stato di pubblicazione": {
+          "id": "b86f7797-61ad-4d5a-bc93-4ede9c6c1c33",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "URL sito web": {
+          "id": "baf99b63-2636-40e3-8fd6-a113b1afa166",
+          "type": "url",
+          "url": null
+        }
+      },
+      "url": "https://www.notion.so/Mobile-developer-Flutter-Gruppo-Maggioli-f7c1e8ecbe694b4096f0bad87b44a1fc"
+    }
+  ],
+  "next_cursor": "8bf9f520-801e-4c1b-b1a8-498142a6d13c",
+  "has_more": true,
+  "type": "page",
+  "page": {}
+}

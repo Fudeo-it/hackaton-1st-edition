@@ -1,0 +1,56 @@
+{
+  "errorMessage": "An error has occurred: {errorMessage}",
+  "@errorMessage": {
+    "description": "Message stating that an error has occurred",
+    "placeholders": {
+      "errorMessage": {
+        "type": "String",
+        "example": "Generic Error"
+      }
+    }
+  },
+  "jobOffersNotAvailable": "Ugh... there are no job offers available at this time. Try again later!",
+  "@jobOffersNotAvailable": {
+    "description": "Message stating that no job offers are available"
+  },
+  "recruitmentTitle": "Recruitment job postings",
+  "@recruitmentTitle": {
+    "description": "Page title"
+  },
+  "website": "offertelavoroflutter.it",
+  "recruitments": "Recruitments",
+  "freelance": "Freelance",
+  "ads": "Ads",
+  "favorites": "Favorites",
+  "publish": "Publish",
+  "sortBy": "Sort by",
+  "sort": "Sort",
+  "removeFilters": "Remove filters",
+  "done": "Done",
+  "titleOffersSaved": "Offers you saved ({qty})",
+  "messageListEmptied": "List emptied",
+  "emptyFavoritesList": "There are no job offers in your favorites list at the moment. Come back to look for new job opportunities!",
+  "addedToFavorites": "Added to favorites",
+  "removedFromFavorites": "Removed from favorites",
+  "team": "Team",
+  "contract": "Contract",
+  "seniority": "Seniority",
+  "pay": "Pay",
+  "description": "Description",
+  "candidates": "Candidates",
+  "howToApply": "How to apply",
+  "notSpecified": "Not specified",
+  "descriptionProject": "Descrizione del progetto",
+  "jobRequest": "Richiesta di lavoro",
+  "relationshipType": "Relationship type",
+  "timing": "Timing",
+  "budget": "Budget",
+  "paymentTimes": "Payment times",
+  "nda": "NDA",
+  "offerTextPublish": "We connect Italian companies with Flutter developers",
+  "messagePublishOffer": "It is possible to publish free job offers for freelance projects or for hiring, if the proposal is similar to one or more developers registered in our database, we will notify the possible interested parties.",
+  "hireHimInTheCompany": "To hire him in the company",
+  "freelanceProject": "For a freelance project",
+  "or": "Or",
+  "shareJobOffer": "Check out this job posting"
+}

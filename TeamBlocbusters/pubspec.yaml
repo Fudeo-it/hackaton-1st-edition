@@ -1,0 +1,68 @@
+name: fudeo_hackaton
+description: Offertelavoroflutter.it app created for the Fudeo hackathon.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+    sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+    bloc: ^8.1.1
+    equatable: ^2.0.3
+    favourites_repository:
+        path: packages/favourites_repository
+    flutter:
+        sdk: flutter
+    flutter_bloc: ^8.1.2
+    flutter_html: ^3.0.0-alpha.6
+    flutter_svg: ^2.0.5
+    fudeo_api:
+        path: packages/fudeo_api
+    job_offer_repository:
+        path: packages/job_offer_repository
+    local_storage:
+        path: packages/local_storage
+    phosphor_flutter: ^2.0.0
+    rxdart: ^0.27.4
+    sized_context: ^1.0.0+4
+    social_share_repository:
+        path: packages/social_share_repository
+    timeago: ^3.4.0
+    url_launcher: ^6.1.10
+
+dev_dependencies:
+    bloc_test: ^9.1.1
+    flutter_launcher_icons: ^0.13.1
+    flutter_test:
+        sdk: flutter
+    mocktail: ^0.3.0
+    very_good_analysis: ^4.0.0+1
+
+flutter:
+    uses-material-design: true
+    generate: true
+    assets:
+        - assets/onboarding.svg
+        - assets/hero.svg
+        - assets/no_result.svg
+    fonts:
+        - family: RedHat
+          fonts:
+              - asset: fonts/Red_Hat_Text/RedHatText-Bold.ttf
+                weight: 700
+              - asset: fonts/Red_Hat_Text/RedHatText-Regular.ttf
+                weight: 400
+              - asset: fonts/Red_Hat_Text/RedHatText-Medium.ttf
+                weight: 500
+              - asset: fonts/Red_Hat_Text/RedHatText-SemiBold.ttf
+                weight: 600
+        - family: RedHatMono
+          fonts:
+              - asset: fonts/Red_Hat_Mono/RedHatMono-Bold.ttf
+                weight: 700
+
+flutter_launcher_icons:
+    android: "launcher_icon"
+    ios: "AppIcon"
+    image_path: "assets/icon/icon.png"
+    min_sdk_android: 21

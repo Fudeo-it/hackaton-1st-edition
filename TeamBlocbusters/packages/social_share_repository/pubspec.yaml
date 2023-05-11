@@ -1,0 +1,12 @@
+name: social_share_repository
+description: Package to manage social sharing functionality
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  share_plus: ^6.3.2
+
+dev_dependencies:
+  very_good_analysis: ^3.1.0

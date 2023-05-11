@@ -1,0 +1,14 @@
+name: favourites_repository
+description: Package which manages the favourites domain
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  local_storage:
+    path: ../local_storage
+  rxdart: ^0.27.4
+
+dev_dependencies:
+  very_good_analysis: ^3.1.0

@@ -1,0 +1,28 @@
+{   
+    "homePageTitle": "Hackathon Fudeo",
+
+    "homeTabLabelAnnunci": "Annunci",
+    "homeTabLabelProgetti": "Progetti",
+    "homeTabLabelPreferiti": "Preferiti",
+
+    "descrizioneOffertaLabel": "Descrizione offerta",
+    "linkAnnuncioBtn": "Vai all'annuncio",
+    "labelLinkAnnuncioCopiato": "Link all'annuncio copiato",
+
+    "aboutPageTitle": "About",
+    "aboutPageAppWebsiteLabel": "Sito",
+    "aboutPageAppSupportLabel": "Supporto",
+    "aboutPageAppSupportMailSubject": "Richiesta supporto per Offertelavoroflutter.it",
+    "aboutPageAppMoreInfo": "Informazioni App",
+    "aboutPageAppMoreInfoAppName": "Hackathon Fudeo",
+    "aboutPageAppMoreInfoLegalese": "La parte legale di questa app viene gestita direttamente da Offertelavoroflutter.it",
+
+    "linkProgettoBtn": "Vai al progetto",
+    "labelLinkProgettoCopiato": "Link al progetto copiato",
+    "descrizioneProgettoLabel": "Descrizione del progetto",
+    "tempisticheProgettoLabel": "Tempistiche",
+    "budgetProgettoLabel": "Budget",
+    "tempistichePagamentoProgettoLabel": "Tempistiche di pagamento",
+
+    "richiestaProgettoLabel": "Richiesta di lavoro"
+}

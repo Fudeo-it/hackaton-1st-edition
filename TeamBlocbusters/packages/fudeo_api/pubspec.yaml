@@ -1,0 +1,12 @@
+name: fudeo_api
+description: Package which manages the Fudeo APIs
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  http: ^0.13.5
+
+dev_dependencies:
+  very_good_analysis: ^3.1.0
